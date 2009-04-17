@@ -1,0 +1,10 @@
+lib/autotest/discover.rb
+lib/dm-form_friendly_integer.rb
+lib/dm-types/form_friendly_integer.rb
+Rakefile
+README.rdoc
+spec/integration/form_friendly_integer_spec.rb
+spec/spec.opts
+spec/spec_helper.rb
+tasks/spec.rake
+Manifest
